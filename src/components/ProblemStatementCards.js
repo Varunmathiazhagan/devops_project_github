@@ -10,9 +10,6 @@ const domainImages = {
   app: '/image/appp.avif',
 };
 
-// Google Form URL - now disabled
-const REGISTRATION_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSel4QGgWbcFn5K94QYMa77D74rakKldQHqGwraWTty8PRkCnw/viewform?usp=sharing";
-
 // Domain coordinators
 const domainCoordinators = {
   ai: [
